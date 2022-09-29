@@ -1,6 +1,6 @@
-°²×¿¶ËÆû³µÔ¤ÀÀÈí¼ş »ùÓÚUnity3DÒıÇæ    
-buildÎÄ¼ş¼ĞÎªÒÑÉú³ÉµÄapk°²×°°ü      
-¿ÉÍ¨¹ıÆÁÄ»¿ØÖÆÊµÊ±Ô¤ÀÀÆû³µ»­Ãæ£¬ÇĞ»»ÂÖì±ÖÖÀà¡¢³µÃÅÑÕÉ«¡¢³µÉíÑÕÉ«£¬²é¿´Æû³µÄÚÊÎ£¬ÇĞ»»×ùÒÎ¡¢·½ÏòÅÌ¡¢×øµæµÈÑÕÉ«ÌùÍ¼µÈ£º
+å®‰å“ç«¯æ±½è½¦é¢„è§ˆè½¯ä»¶ åŸºäºUnity3Då¼•æ“    
+buildæ–‡ä»¶å¤¹ä¸ºå·²ç”Ÿæˆçš„apkå®‰è£…åŒ…      
+å¯é€šè¿‡é™€èºä»ªã€å±å¹•æ§åˆ¶å®æ—¶é¢„è§ˆæ±½è½¦ç”»é¢ï¼Œåˆ‡æ¢è½®æ¯‚ç§ç±»ã€è½¦é—¨é¢œè‰²ã€è½¦èº«é¢œè‰²ï¼ŒæŸ¥çœ‹æ±½è½¦å†…é¥°ï¼Œåˆ‡æ¢åº§æ¤…ã€æ–¹å‘ç›˜ã€åå«ç­‰é¢œè‰²è´´å›¾ç­‰ï¼š
 ![1](https://github.com/geekzzz/U3DCarViewer/blob/master/build/picture%20preview/1.jpg) 
 ![2](https://github.com/geekzzz/U3DCarViewer/blob/master/build/picture%20preview/2.jpg) 
 ![3](https://github.com/geekzzz/U3DCarViewer/blob/master/build/picture%20preview/3.jpg) 
